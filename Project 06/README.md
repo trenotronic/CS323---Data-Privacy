@@ -5,7 +5,7 @@ This project implements a secure-style decision tree evaluation workflow inspire
 --> The goal is to simulate how a model owner and a data owner could jointly evaluate a decision tree without revealing sensitive information, using simplified secure comparison and oblivious branching operations.
 
 **Contributors** 
-- Trinity Meckel
+- Tren Meckel
 - Kushal Sigdel
 
 ## Project Structure
